@@ -30,3 +30,7 @@
 <h2>Verificação da página para diversas resoluções</h2>
 
 ![Gif responsivo](https://user-images.githubusercontent.com/107582204/204383535-e9adf2ba-1b4b-4bdb-9302-74dc0054992e.gif)
+
+<h2>Para aprendizagem do jQuery utilizei  próprio o framework para elaborar uma página com os conceitos </h2>
+
+![Animação](https://user-images.githubusercontent.com/107582204/204384563-7ecc44d0-3e51-4152-88cb-855496090533.gif)
