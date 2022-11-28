@@ -10,4 +10,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
 
 
+<h2> Elaborar um layout para cáculo do IMC </h2>
+[Documentação](https://github.com/iaraeliza/WebModerno/tree/master/EXERCICIOS-WEB/exercicioIMC)
+<img src= "https://user-images.githubusercontent.com/107582204/204380613-a85ba649-d88e-487f-b304-f0a7ba09a5ce.png"/>
 
+[Documentação](https://github.com/iaraeliza/WebModerno/tree/master/EXERCICIOS-WEB/exercicioIMC)
+
+
+https://github.com/iaraeliza/WebModerno/tree/master/EXERCICIOS-WEB/exercicioIMC
