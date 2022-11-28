@@ -8,6 +8,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
 
-<h3>Desenvolvedor de Games em Unity.</h3>
-<h4>Atribuições: Conceitos da linguagem C#, a mais utilizada pelos desenvolvedores para criar jogos inovadores e disruptivos.</h4>
+
 
