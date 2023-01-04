@@ -11,7 +11,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="40" height="40"/>
 
 
-<h2>*Elaborar uma página para cáculo do IMC. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<h2>*Elaborar uma página para cáculo do IMC. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></h2>
 ![imgImc](https://user-images.githubusercontent.com/107582204/210623296-217e572f-b92a-4f9b-b3fb-ec88dc501e4a.jpg)
 
 <h2>*Formulários. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40
