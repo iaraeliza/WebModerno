@@ -12,6 +12,7 @@
 
 
 <h2>*Elaborar uma página para cáculo do IMC. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></h2>
+
 ![imgImc](https://user-images.githubusercontent.com/107582204/210623296-217e572f-b92a-4f9b-b3fb-ec88dc501e4a.jpg)
 
 <h2>*Formulários. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40
@@ -33,6 +34,6 @@
 
 ![Animação](https://user-images.githubusercontent.com/107582204/204384563-7ecc44d0-3e51-4152-88cb-855496090533.gif)
 
-<h2>Lista de Tarefas<h2>  
+<h2>Lista de Tarefas utilizando React. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></h2>  
           
 ![ListaDeTarefasReact](https://user-images.githubusercontent.com/107582204/210618162-84607450-ce09-4880-be9d-4a3d1ba20ec2.gif)
