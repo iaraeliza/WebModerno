@@ -35,3 +35,14 @@
 <h2>Neste exercício de jQuery utilizei  o próprio  framework para elaborar uma página para apredizado. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="40" height="40"/></h2>
 
 ![Animação](https://user-images.githubusercontent.com/107582204/204384563-7ecc44d0-3e51-4152-88cb-855496090533.gif)
+
+<h2>Lista de Tarefas<h2>  
+          
+
+https://user-images.githubusercontent.com/107582204/210614041-dcc901d4-7f72-424a-b484-8bd68a3bb800.mp4
+
+
+
+
+
+
