@@ -12,12 +12,8 @@
 
 
 <h2>*Elaborar uma página para cáculo do IMC. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> </h2> 
-<img src= "https://user-images.githubusercontent.com/107582204/204380613-a85ba649-d88e-487f-b304-f0a7ba09a5ce.png"/>
 
-
-<h2>*Formulários. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<h2>*Formulários. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></h2>
 
@@ -38,11 +34,4 @@
 
 <h2>Lista de Tarefas<h2>  
           
-
-https://user-images.githubusercontent.com/107582204/210614041-dcc901d4-7f72-424a-b484-8bd68a3bb800.mp4
-
-
-
-
-
-
+![ListaDeTarefasReact](https://user-images.githubusercontent.com/107582204/210618162-84607450-ce09-4880-be9d-4a3d1ba20ec2.gif)
